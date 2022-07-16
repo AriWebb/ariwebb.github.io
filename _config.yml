@@ -38,7 +38,7 @@ plugins:
 
 author:
   name: "Ari Webb"
-  avatar: /assets/images/face_shot.jpg
+  avatar: "/assets/images/face_shot.jpg"
 
 footer:
   links:
