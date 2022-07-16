@@ -31,6 +31,11 @@ remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jemoji
+
+author:
+  name: "Ari Webb"
+  avatar: /assets/images/face_shot.jpg
 
 footer:
   links:
