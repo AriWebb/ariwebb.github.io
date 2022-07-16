@@ -71,3 +71,5 @@ footer:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+atom_feed:
+  hide: true
