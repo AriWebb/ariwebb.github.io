@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Whoami?!"
+title: "Whoami?"
 ---
 
 My name is Ari Webb. I'm an undergrad at Stanford University studying Computer Science and Philosophy. I am a staff writer at the [Stanford Review][review], I play for the [Men's Frisbee Team][blood] and I'm a member of [SigEp][sigep].

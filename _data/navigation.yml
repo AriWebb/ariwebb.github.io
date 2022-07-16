@@ -1,3 +1,7 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Coding"
+    url: /coding/
+  - title: "Stocks"
+    url: /stocks/
