@@ -43,8 +43,8 @@ author:
   location: "Stanford, CA"
   links:
       - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/ari-webb/"
+        icon: "fab fa-fw fa-linkedin-in"
+        url: "https://www.linkedin.com/in/ari-webb/"
 
   
 
