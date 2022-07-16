@@ -39,6 +39,9 @@ plugins:
 author:
   name: "Ari Webb"
   avatar: "/assets/images/face_shot.jpg"
+  bio: "CS student and tree :evergreen_tree:"
+  location: "Stanford, CA"
+  
 
 footer:
   links:
