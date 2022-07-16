@@ -39,8 +39,13 @@ plugins:
 author:
   name: "Ari Webb"
   avatar: "/assets/images/face_shot.jpg"
-  bio: "CS student and tree :evergreen_tree:"
+  bio: "CS + PHIL + :evergreen_tree:"
   location: "Stanford, CA"
+  links:
+      - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/ari-webb/"
+
   
 
 footer:
