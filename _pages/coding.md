@@ -1,5 +1,5 @@
 ---
-premalink: /coding/
+permalink: /coding/
 title: "Programming Projects"
 ---
 

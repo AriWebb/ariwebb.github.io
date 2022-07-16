@@ -1,5 +1,5 @@
 ---
-premalink: /stocks/
+permalink: /stocks/
 title: "My Investments"
 ---
 
