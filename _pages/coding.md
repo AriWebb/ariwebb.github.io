@@ -1,5 +1,5 @@
 ---
 permalink: /coding/
-title: "Programming Projects"
+title: "Coding"
 ---
 

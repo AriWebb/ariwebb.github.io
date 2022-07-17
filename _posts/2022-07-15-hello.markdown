@@ -1,6 +1,4 @@
 ---
-layout: post
 title:  "Hello!!"
-date:   2022-07-15 19:41:38 -0700
 ---
 Hello world test!!
