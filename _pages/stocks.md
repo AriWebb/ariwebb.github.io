@@ -16,6 +16,6 @@ SNAP, AMZN, DOCU, TSLA
 
 ## Prior Holdings:
 
-5/9/22 <span style="color:red">SELL</span> 50% ACB 
+5/9/22 <span style="color:red">SELL</span> 50% ACB
 3/15/21 <span style="color:green">BUY</span> 50% ACB
 2013 <span style="color:green">BUY</span> HPQ and FSBW 
