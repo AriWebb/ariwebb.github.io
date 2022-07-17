@@ -1,4 +1,15 @@
 ---
-title:  "Hello!!"
----
-Hello world test!!
+title:  "Welcome"
+--- 
+
+Hello and welcome to my corner of the internet! Read on to find out more about this website:
+
+## Inspiration
+
+I was initially inspired to build this website by my friend James Qiu, who recently [built][james] a similar one. 
+
+## Organization
+
+You can find more info about me in the About tab in the upper right hand corner, alongside my past and future stock picks and some of my coding projects. You can also find my GitHub, LinkedIn and Instagram at the foot of the page.
+
+[james]: https://qiujames.github.io/
