@@ -1,4 +1,4 @@
-# ariwebb.github.io Website Repo
+# Website Repo for ariwebb.com
 Ari Webb
 
 ## Motivation:
