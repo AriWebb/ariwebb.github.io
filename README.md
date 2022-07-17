@@ -9,8 +9,20 @@ I wanted to make this website so that I could have a place to share with the wor
 
 Putting together this website was super quick! It is hosted through [GitHub][github] and built using the [Jekyll][jekyll] and [minimal mistakes][mistakes] frameworks. Look at the three preceeding links to find more info. Feel free also to clone the repo to gain insight into what makes it work and how you can build your own!
 
+## Custom Domain:
+
+The default domain name for your pages website takes the form of username.github.io. What if you want to change to a non-github domain? Follow these steps:
+
+1. Choose a domain name. I went with ariwebb.com.
+2. Purchase the domain name. I used [namecheap][namecheap].
+3. Configure a new CNAME record through your DNS provider. If you used namecheap, instructions are [here][ncdns]
+4. Create the custom domain through GitHub pages. Find general info about this [here][ghpcustom] and specific instructions [here][ghpins]
 
 [james]: https://qiujames.github.io/
 [github]: https://pages.github.com/
 [jekyll]: https://jekyllrb.com/docs/
 [mistakes]: https://mmistakes.github.io/minimal-mistakes/
+[namecheap]: https://www.namecheap.com/
+[ncdns]: https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages/
+[ghpcustom]: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages
+[ghpins]: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain
