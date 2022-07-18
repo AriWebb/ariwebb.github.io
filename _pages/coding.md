@@ -1,5 +1,0 @@
----
-permalink: /coding/
-title: "Coding"
----
-

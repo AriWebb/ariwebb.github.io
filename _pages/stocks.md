@@ -11,11 +11,14 @@ SNAP, AMZN, DOCU, TSLA
 
 ## Current Portfolio: 
 
-6/3/22 <span style="color:green">BUY</span> 34% META\
-5/9/22 <span style="color:green">BUY</span> 33% NFLX, 33% NVDA\
+6/3/22 <span style="color:green">BUY</span> META\
+5/9/22 <span style="color:green">BUY</span> NFLX, NVDA
 
 ## Prior Holdings:
 
-5/9/22 <span style="color:red">SELL</span> 50% ACB\
-3/15/21 <span style="color:green">BUY</span> 50% ACB\
-2013 <span style="color:green">BUY</span> HPQ and FSBW\
+5/9/22 <span style="color:red">SELL</span> ACB\
+3/15/21 <span style="color:green">BUY</span> ACB\
+4/10/20 <span style="color:red">SELL</span> SPY, SCHF\
+6/15/17 <span style="color:red">SELL</span> HPQ, FSBW\
+5/10/16 <span style="color:green">BUY</span> SPY, SCHF\
+4/20/13 <span style="color:green">BUY</span> HPQ, FSBW
