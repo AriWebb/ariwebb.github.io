@@ -1,7 +1,7 @@
 ---
-title: "Penguins Can Fly"
+title: "Case Shiller Prediction"
 date: 2022-06-05
-last_modified_at: 2022-07-17
+last_modified_at: 2022-07-18
 header:
   teaser: /assets/images/case_shiller/country.png
 sidebar:

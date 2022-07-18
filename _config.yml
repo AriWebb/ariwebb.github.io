@@ -107,15 +107,20 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _coding
+  # _projects
   - scope:
       path: ""
-      type: coding
+      type: projects
     values:
       layout: single
       author_profile: false
       show_date: true
   
-
 atom_feed:
   hide: true
+
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+    related: false

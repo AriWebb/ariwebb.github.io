@@ -3,7 +3,7 @@ permalink: /stocks/
 title: "Stocks"
 ---
 
-I will try to keep this list updated with all of my stock picks. I don't include any of the day trades I've made in the past, as there are frankly way too many. Instead, I only have my long term holdings here. I value honesty, so I'm transparent even about my big losses.
+I will try to keep this list updated with all of my stock picks. I don't include any of the day trades I've made in the past, as there are frankly way too many. Instead, I only have my long term holdings here.
 
 ## Watchlist:
 
