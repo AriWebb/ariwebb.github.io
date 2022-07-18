@@ -20,7 +20,7 @@ I've worked in the real estate industry for most of my life. My work has been pr
 
 # Project
 
-As a final project for our course CS 229: Machine Learning, Matt Wolff, Laywood Fayne and I compiled economic data and used it to predict the Case Shiller housing index in 20 major US cities. Find the full source code for the project [here][repo].
+As a final project for CS 229: Machine Learning, Matt Wolff, Laywood Fayne and I compiled economic data and used it to predict the Case Shiller housing index in 20 major US cities. Find the full source code for the project [here][repo].
 
 # Method + Results
 
