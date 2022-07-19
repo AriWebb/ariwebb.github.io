@@ -16,9 +16,9 @@ sidebar:
 toc: true
 ---
 
-# Introduction
-
 Normally, I wouldn't include a class assignment under my personal projects tab. This implementation, though, was so cool that I couldn't resist writing a little about it. 
+
+# Introduction
 
 This is an assignment I did for [CS 255: Intro to Cryptography][stanford]. The course is taught by crypto genius Dan Boneh, who is also committed to publicizing his course content. You can find the free Coursera course [here][coursera]. I would highly reccomend signing up for the Coursera course if you have basic programming proficiency and interest in how information is secured. 
 
