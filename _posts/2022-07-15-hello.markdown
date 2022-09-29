@@ -14,7 +14,7 @@ You can find more info about me in the about tab in the upper right hand corner,
 
 ## Source Code
 
-I'm a big fan of the open source movement. So, in the spirit of transparency, the repo for this website is on GitHub [here][website]. Jekyll, Minimal Mistakes and using James' website as reference made making this site super easy! If you are reading this and want to make your own site, definately poke around my repo!
+I'm a big fan of the open source movement. So, in the spirit of transparency, the repo for this website is on GitHub [here][website]. Jekyll, Minimal Mistakes and using James' website as reference made making this site super easy! If you are reading this and want to make your own site, definitely poke around my repo!
 
 [james]: https://qiujames.github.io/
 [website]: https://github.com/AriWebb/ariwebb.github.io
