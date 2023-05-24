@@ -6,10 +6,24 @@ title: "Stocks"
 I will try to keep this list updated with all of my stock picks. I don't include any of the day trades I've made in the past, as there are frankly way too many. Instead, I only have my long term holdings here.
 
 ## Watchlist:
+Current Watchlist:\
+LYFT, TSLA, C
 
+Past Watchlist:\
 SNAP, AMZN, DOCU, TSLA
 
 ## Current Portfolio: 
+
+4/28/23 <span style="color:red">SELL</span> META, NFLX, NVDA, INTC
+
+Rationale:\
+Market has been pretty hot. I think it might be time to take my gains and sit on the sideline for a bit. Looming debt problems also threaten market prospects right now.
+
+
+9/13/22 <span style="color:green">BUY</span> INTC
+
+Rationale:\
+Super undervalued company with solid fundamentals.
 
 6/3/22 <span style="color:green">BUY</span> META\
 5/9/22 <span style="color:green">BUY</span> NFLX, NVDA\
