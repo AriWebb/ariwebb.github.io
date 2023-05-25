@@ -1,0 +1,50 @@
+---
+title:  "Nile Retrospective"
+--- 
+
+As many of those familiar with me may already know,  I have spent the past couple of months working as a Software Engineering Intern at a company called [Nile][nile]. Friday, 5/26 is my last day, so I thought I would share the exciting work I've been involved with for the past few months.
+
+## The Company
+
+Nile is a networking company. More specifically, it is the industry leader of a new category called Networking as a Service, or NaaS. Nile doesn't sell networking hardware like industry incumbent's like Cisco. Intead, Nile provides both wired and wireless network connectivity as a service, much like electricity or water.
+
+Nile's mission is to "make networks invisible," which means abstracting away all of the complexity involved in provisioning, maintaining and securing networks. Further Nile drives efficiency and scalability through automation and AI/ML.
+
+## The Project
+
+Nile is a vertically integrated company, which means manufacturing hardware. During my time at Nile, I was tasked with starting off a new internal microservice that tracks the wherabouts of hardware elements from the beginning of their lifespan to the end.
+
+Over the course of just 8 weeks, with the help of many mentors and coworkers, I am proud to say that this microservice is up and running. It pulls data directly from logistics providers as well as internal Nile APIs, parses it, stores it and displays it in an intuitive way.
+
+Further, the service automates costly and mistake prone supply chain ops activities, driving operations efficiency internally as well as minimizing lost products.
+
+I am overjoyed to know that my code will help Nile as it scales to become a leader in enterprise networking over the coming years.
+
+## Mentorship
+
+My accomplishments over the past couple of months would not have been possible without the unwavering support I received from mentors and colleagues.
+
+I owe much gratitude to my mentor and Nile CDO Sri Hosakote. Sri has dedicated many hours every week towards this project. He has advised me on not only the many details of this undertaking, but has also helped me personally and professionally.
+
+Sri also organized for me to meet and learn from many other Nile employees including:
+
+Pankaj Patel, Nile CEO and networking industry veteran.
+Scott Gainey, Nile CMO.
+Suresh Katukam, Nile CPO.
+Lou Serlenga, Nile CRO.
+
+I would also like to express my gratitude to my technical advisor, Harjeet Singh. Throughout the 8-week journey, Harjeet significantly enhanced my coding skills. His patience, guidance, and expertise were instrumental in overcoming challenging bugs and design issues.
+
+Overall, I am incredibly thankful for the opportunity I had to talk to and learn from everyone at Nile.
+
+
+## Parting Thoughts
+
+In parting, I encourage anyone reading this to learn more about Nile. Feel free to message me on LinkedIn with any questions about my experience or about Nile in general. (Spoiler Alert: I had an amazing time working there.)
+
+I am excited to witness Nile's continued growth and success in the industry.
+
+GO NILE!
+
+
+[nile]:https://nilesecure.com/
