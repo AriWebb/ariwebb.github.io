@@ -8,11 +8,11 @@ As many of those familiar with me may already know,  I have spent the past coupl
 
 Nile is a networking company. More specifically, it is the industry leader of a new category called Networking as a Service, or NaaS. Nile doesn't sell networking hardware like industry incumbents such as Cisco. Intead, Nile provides both wired and wireless network connectivity as a service, much like electricity or water.
 
-Nile's mission is to "make networks invisible," which means abstracting away all of the complexity involved in provisioning, maintaining and securing networks. Further Nile drives efficiency and scalability through automation and AI/ML.
+Nile's mission is to "make networks invisible," which means abstracting away all of the complexity involved in provisioning, maintaining and securing networks. Further, Nile drives efficiency and scalability through automation and AI/ML.
 
 ## The Project
 
-Nile is a vertically integrated company, which means manufacturing hardware. During my time at Nile, I was tasked with starting off a new internal microservice that tracks the whereabouts of hardware elements from the beginning of their lifespan to the end.
+Nile is a vertically integrated company, which means manufacturing hardware. During my time at Nile, I was tasked with starting a new internal microservice that tracks the whereabouts of hardware elements from the beginning of their lifespan to the end.
 
 Over the course of just 8 weeks, with the help of many mentors and coworkers, I am proud to say that this microservice is up and running. It pulls data directly from logistics providers as well as internal Nile APIs, parses it, stores it and displays it in an intuitive way.
 
