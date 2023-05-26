@@ -6,21 +6,23 @@ As many of those familiar with me may already know, I have spent the past couple
 
 ## The Company
 
-Nile is a networking company. More specifically, it is the industry leader of a new category called Networking as a Service, or NaaS. Unlike traditional networking companies that focus on selling hardware, Nile offers a simplified solution by providing both wired and wireless network connectivity as a service, comparable to the way electricity or water services are provided.
+Nile is the industry leader of a new business category called Networking as a Service, or NaaS. Unlike traditional networking companies that focus on selling hardware, Nile offers a simplified solution by providing both wired and wireless network connectivity as a service, comparable to the way electricity or water services are provided.
 
 The core objective of Nile is to "make networks invisible," aiming to eliminate the complexities associated with setting up, managing, and securing networks. By eliminating these complexities, Nile enables businesses to focus on their core operations without the burden of dealing with the network. 
 
-To drive efficiency and scalability, Nile leverages the power of automation and advanced technologies like artificial intelligence and machine learning (AI/ML). 
+To drive efficiency and scalability, Nile leverages the power of automation and technologies such as artificial intelligence and machine learning (AI/ML). 
 
 ## The Project
 
-Nile is a vertically integrated company, which means manufacturing hardware. During my time at Nile, I was tasked with starting a new internal microservice that tracks the whereabouts of hardware elements from the beginning of their lifespan to the end.
+Nile is a vertically integrated company, which means not only manufacturing network elements, but also taking full responsibility for the complete network lifecycle from day zero onwards.
+
+During my time at Nile, I was tasked with starting a new internal microservice that tracks the whereabouts of network elements from the beginning of their lifespan to the end.
 
 Over the course of just 8 weeks, with the help of many mentors and coworkers, I am proud to say that this microservice is up and running. It pulls data directly from logistics providers as well as internal Nile APIs. It then parses the data and stores it in a backend database, and finally displays it to users in a succinct and intuitive way.
 
-Further, the service automates costly and mistake prone supply chain ops activities, driving operations efficiency internally as well as minimizing lost products.
+Further, the service automates costly and mistake prone supply chain operations activities, driving efficiency internally as well as minimizing lost products.
 
-I am overjoyed to know that my code will help Nile as it scales to become a leader in enterprise networking over the coming years.
+I am overjoyed to know that my code will help Nile as it scales to become a leader in enterprise NaaS over the coming years.
 
 ## Mentorship
 
@@ -30,10 +32,9 @@ I owe much gratitude to my mentor and Nile CDO Sri Hosakote. Sri has dedicated m
 
 Further, Sri organized for me to meet and learn from many other Nile leaders and senior developers.
 
-I would also like to express my gratitude to my technical advisor, Harjeet Singh. Throughout the 8-week journey, Harjeet significantly enhanced my coding skills. His patience, guidance, and expertise were instrumental in overcoming challenging bugs and design issues. Other impactful individuals include Steve Alexander, Kelly Pelletier, and Sravani Vallabhaneni, among others. Thank you to the team for the incredible guidance during this time. 
+I would also like to express my gratitude to my senior technical advisor, Harjeet Singh. Throughout the 8-week journey, Harjeet significantly enhanced my coding skills. His patience, guidance, and expertise were instrumental in overcoming challenging bugs and design issues. As an intern, it was inspiring to have a senior developer show such great passion for my project. I am also grateful to my mentor Micah Secrest, who helped me get ramped up quickly alongside answering my numerous questions about Nile’s tech stack.
 
-Overall, I am incredibly thankful for the opportunity I had to work with and learn from everyone at Nile.
-
+Other impactful individuals include Matt Liang, Shruthi Koundinya, Steve Alexander, Kelly Pelletier, and Sravani Vallabhaneni, among others. Thank you to the whole team for your incredible guidance during this time. 
 
 ## Parting Thoughts
 
@@ -45,5 +46,3 @@ GO NILE!
 
 
 [nile]:https://nilesecure.com/
-
-
