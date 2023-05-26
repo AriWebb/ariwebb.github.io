@@ -2,19 +2,21 @@
 title:  "Nile Retrospective"
 --- 
 
-As many of those familiar with me may already know,  I have spent the past couple of months working as a Software Engineering Intern at a company called [Nile][nile]. Friday, 5/26 is my last day, so I thought I would share the exciting work I've been involved with for the past few months.
+As many of those familiar with me may already know, I have spent the past couple of months working as a Software Engineering Intern at a company called [Nile][nile]. With mixed emotions, Friday, 5/26 is the last day of my internship, so I thought I would share the exciting work I've been involved with for the past few months.
 
 ## The Company
 
-Nile is a networking company. More specifically, it is the industry leader of a new category called Networking as a Service, or NaaS. Nile doesn't sell networking hardware like industry incumbents such as Cisco. Intead, Nile provides both wired and wireless network connectivity as a service, much like electricity or water.
+Nile is a networking company. More specifically, it is the industry leader of a new category called Networking as a Service, or NaaS. Unlike traditional networking companies that focus on selling hardware, Nile offers a simplified solution by providing both wired and wireless network connectivity as a service, comparable to the way electricity or water services are provided.
 
-Nile's mission is to "make networks invisible," which means abstracting away all of the complexity involved in provisioning, maintaining and securing networks. Further, Nile drives efficiency and scalability through automation and AI/ML.
+The core objective of Nile is to "make networks invisible," aiming to eliminate the complexities associated with setting up, managing, and securing networks. By eliminating these complexities, Nile enables businesses to focus on their core operations without the burden of dealing with the network. 
+
+To drive efficiency and scalability, Nile leverages the power of automation and advanced technologies like artificial intelligence and machine learning (AI/ML). 
 
 ## The Project
 
 Nile is a vertically integrated company, which means manufacturing hardware. During my time at Nile, I was tasked with starting a new internal microservice that tracks the whereabouts of hardware elements from the beginning of their lifespan to the end.
 
-Over the course of just 8 weeks, with the help of many mentors and coworkers, I am proud to say that this microservice is up and running. It pulls data directly from logistics providers as well as internal Nile APIs, parses it, stores it and displays it in an intuitive way.
+Over the course of just 8 weeks, with the help of many mentors and coworkers, I am proud to say that this microservice is up and running. It pulls data directly from logistics providers as well as internal Nile APIs. It then parses the data and stores it in a backend database, and finally displays it to users in a succinct and intuitive way.
 
 Further, the service automates costly and mistake prone supply chain ops activities, driving operations efficiency internally as well as minimizing lost products.
 
@@ -28,7 +30,7 @@ I owe much gratitude to my mentor and Nile CDO Sri Hosakote. Sri has dedicated m
 
 Further, Sri organized for me to meet and learn from many other Nile leaders and senior developers.
 
-I would also like to express my gratitude to my technical advisor, Harjeet Singh. Throughout the 8-week journey, Harjeet significantly enhanced my coding skills. His patience, guidance, and expertise were instrumental in overcoming challenging bugs and design issues.
+I would also like to express my gratitude to my technical advisor, Harjeet Singh. Throughout the 8-week journey, Harjeet significantly enhanced my coding skills. His patience, guidance, and expertise were instrumental in overcoming challenging bugs and design issues. Other impactful individuals include Steve Alexander, Kelly Pelletier, and Sravani Vallabhaneni, among others. Thank you to the team for the incredible guidance during this time. 
 
 Overall, I am incredibly thankful for the opportunity I had to work with and learn from everyone at Nile.
 
@@ -43,3 +45,5 @@ GO NILE!
 
 
 [nile]:https://nilesecure.com/
+
+
