@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-09-11T14:31:09-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ari Webb</title><subtitle>Personal website of Ari Webb</subtitle><author><name>Ari Webb</name></author><entry><title type="html">Introducing Butterfly</title><link href="http://localhost:4000/butterfly/" rel="alternate" type="text/html" title="Introducing Butterfly" /><published>2023-09-11T00:00:00-07:00</published><updated>2023-09-11T00:00:00-07:00</updated><id>http://localhost:4000/butterfly</id><content type="html" xml:base="http://localhost:4000/butterfly/">Over the course of the past few weeks, I have been working on a side project I call Butterfly. It is a simple web app built using Svelte that helps my girlfriend and I stay in touch with each other when we are far apart.
+
+I put the core of the website behind Google Auth, so it isn't fully public. The domain, though, is [butterfly-distance.xyz](butterfly-distance.xyz). If you go there, you can see my fun CSS animation sign in page.
+
+
+Read more about Butterfly in my new project post [here](/projects/butterfly_distance)</content><author><name>Ari Webb</name></author><summary type="html">Over the course of the past few weeks, I have been working on a side project I call Butterfly. It is a simple web app built using Svelte that helps my girlfriend and I stay in touch with each other when we are far apart.</summary></entry><entry><title type="html">Nile Retrospective</title><link href="http://localhost:4000/nile/" rel="alternate" type="text/html" title="Nile Retrospective" /><published>2023-05-25T00:00:00-07:00</published><updated>2023-05-25T00:00:00-07:00</updated><id>http://localhost:4000/nile</id><content type="html" xml:base="http://localhost:4000/nile/">As many of those familiar with me may already know, I have spent the past couple of months working as a Software Engineering Intern at a company called [Nile][nile]. With mixed emotions, Friday, 5/26 is the last day of my internship, so I thought I would share the exciting work I've been involved with for the past few months.
+
+## The Company
+
+Nile is the industry leader of a new business category called Networking as a Service, or NaaS. Unlike traditional networking companies that focus on selling hardware, Nile offers a simplified solution by providing both wired and wireless network connectivity as a service, comparable to the way electricity or water services are provided.
+
+The core objective of Nile is to &quot;make networks invisible,&quot; aiming to eliminate the complexities associated with setting up, managing, and securing networks. By eliminating these complexities, Nile enables businesses to focus on their core operations without the burden of dealing with the network. 
+
+To drive efficiency and scalability, Nile leverages the power of automation and technologies such as artificial intelligence and machine learning (AI/ML). 
+
+## The Project
+
+Nile is a vertically integrated company, which means not only manufacturing network elements, but also taking full responsibility for the complete network lifecycle from day zero onwards.
+
+During my time at Nile, I was tasked with starting a new internal microservice that tracks the whereabouts of network elements from the beginning of their lifespan to the end.
+
+Over the course of just 8 weeks, with the help of many mentors and coworkers, I am proud to say that this microservice is up and running. It pulls data directly from logistics providers as well as internal Nile APIs. It then parses the data and stores it in a backend database, and finally displays it to users in a succinct and intuitive way.
+
+Further, the service automates costly and mistake prone supply chain operations activities, driving efficiency internally as well as minimizing lost products.
+
+I am overjoyed to know that my code will help Nile as it scales to become a leader in enterprise NaaS over the coming years.
+
+## Mentorship
+
+My accomplishments over the past couple of months would not have been possible without the unwavering support I received from mentors and colleagues.
+
+I owe much gratitude to my mentor and Nile CDO Sri Hosakote. Sri has dedicated many hours every week towards this project. He has advised me on not only the many details of this undertaking, but has also helped me personally and professionally.
+
+Further, Sri organized for me to meet and learn from many other Nile leaders and senior developers.
+
+I would also like to express my gratitude to my senior technical advisor, Harjeet Singh. Throughout the 8-week journey, Harjeet significantly enhanced my coding skills. His patience, guidance, and expertise were instrumental in overcoming challenging bugs and design issues. As an intern, it was inspiring to have a senior developer show such great passion for my project. I am also grateful to my mentor Micah Secrest, who helped me get ramped up quickly alongside answering my numerous questions about Nile’s tech stack.
+
+Other impactful individuals include Matt Liang, Shruthi Koundinya, Steve Alexander, Kelly Pelletier, and Sravani Vallabhaneni, among others. Thank you to the whole team for your incredible guidance during this time. 
+
+## Parting Thoughts
+
+In parting, I encourage anyone reading this to learn more about Nile. Feel free to message me on LinkedIn with any questions about my experience or about Nile in general. (Spoiler Alert: I had an amazing time working there.)
+
+I am excited to witness Nile's continued growth and success in the industry.
+
+GO NILE!
+
+
+[nile]:https://nilesecure.com/</content><author><name>Ari Webb</name></author><summary type="html">As many of those familiar with me may already know, I have spent the past couple of months working as a Software Engineering Intern at a company called Nile. With mixed emotions, Friday, 5/26 is the last day of my internship, so I thought I would share the exciting work I’ve been involved with for the past few months.</summary></entry><entry><title type="html">Welcome</title><link href="http://localhost:4000/hello/" rel="alternate" type="text/html" title="Welcome" /><published>2022-07-15T00:00:00-07:00</published><updated>2022-07-15T00:00:00-07:00</updated><id>http://localhost:4000/hello</id><content type="html" xml:base="http://localhost:4000/hello/">&lt;p&gt;Hello and welcome to my corner of the internet! Read on to find out more about this website:&lt;/p&gt;
+
+&lt;h2 id=&quot;inspiration&quot;&gt;Inspiration&lt;/h2&gt;
+
+&lt;p&gt;I was initially inspired to build this website by my friend James Qiu, who recently &lt;a href=&quot;https://qiujames.github.io/&quot;&gt;built&lt;/a&gt; a similar one.&lt;/p&gt;
+
+&lt;h2 id=&quot;organization&quot;&gt;Organization&lt;/h2&gt;
+
+&lt;p&gt;You can find more info about me in the about tab in the upper right hand corner, alongside my past and future stock picks and some of my coding projects. You can also find my GitHub, LinkedIn and Instagram at the foot of the page.&lt;/p&gt;
+
+&lt;h2 id=&quot;source-code&quot;&gt;Source Code&lt;/h2&gt;
+
+&lt;p&gt;I’m a big fan of the open source movement. So, in the spirit of transparency, the repo for this website is on GitHub &lt;a href=&quot;https://github.com/AriWebb/ariwebb.github.io&quot;&gt;here&lt;/a&gt;. Jekyll, Minimal Mistakes and using James’ website as reference made making this site super easy! If you are reading this and want to make your own site, definitely poke around my repo!&lt;/p&gt;</content><author><name>Ari Webb</name></author><summary type="html">Hello and welcome to my corner of the internet! Read on to find out more about this website:</summary></entry></feed>

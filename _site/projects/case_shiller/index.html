@@ -1,0 +1,349 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Case Shiller Prediction - Ari Webb</title>
+<meta name="description" content="I’ve worked in the real estate industry for most of my life. My work has been pragmatic though –construction, property management, labor. I only recently gained an interest in how the broader real estate market moves, and further how data can be leveraged to gain insights about the market.">
+
+
+  <meta name="author" content="Ari Webb">
+  
+  <meta property="article:author" content="Ari Webb">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Ari Webb">
+<meta property="og:title" content="Case Shiller Prediction">
+<meta property="og:url" content="http://localhost:4000/projects/case_shiller/">
+
+
+  <meta property="og:description" content="I’ve worked in the real estate industry for most of my life. My work has been pragmatic though –construction, property management, labor. I only recently gained an interest in how the broader real estate market moves, and further how data can be leveraged to gain insights about the market.">
+
+
+
+  <meta property="og:image" content="http://localhost:4000/assets/images/case_shiller/country.png">
+
+
+
+
+
+  <meta property="article:published_time" content="2022-06-05T00:00:00-07:00">
+
+
+
+  <meta property="article:modified_time" content="2022-07-18T00:00:00-07:00">
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/projects/case_shiller/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": null,
+      "url": "http://localhost:4000/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<link rel="icon" type="image/x-icon" href="/assets/images/favicon.ico">
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          Ari Webb
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/about/">About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/projects/">Projects</a>
+            </li><li class="masthead__menu-item">
+              <a href="/stocks/">Stocks</a>
+            </li><li class="masthead__menu-item">
+              <a href="/books/">Books</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/assets/images/case_shiller/country.png"
+             alt="">
+      
+      <h3>Role</h3>
+      <p>Data Cleaning, VAR Model Builder</p>
+
+      
+    
+      
+      <h3>Languages</h3>
+      <p>Python, NumPy and Pandas</p>
+
+      
+    
+      
+      <h3>Built For</h3>
+      <p>CS 229: ML Final Project</p>
+
+      
+    
+      
+      
+      <p>Time Spent: 4 weeks</p>
+
+      
+    
+    
+  
+  </div>
+
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Case Shiller Prediction">
+    <meta itemprop="description" content="I’ve worked in the real estate industry for most of my life. My work has been pragmatic though –construction, property management, labor. I only recently gained an interest in how the broader real estate market moves, and further how data can be leveraged to gain insights about the market.">
+    <meta itemprop="datePublished" content="2022-06-05T00:00:00-07:00">
+    <meta itemprop="dateModified" content="2022-07-18T00:00:00-07:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Case Shiller Prediction
+</h1>
+          
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2022-06-05T00:00:00-07:00">June 5, 2022</time>
+      </span>
+    
+
+    
+
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> On this page</h4></header>
+              <ul class="toc__menu"><li><a href="#project">Project</a></li><li><a href="#method--results">Method + Results</a></li></ul>
+
+            </nav>
+          </aside>
+        
+        <p>I’ve worked in the real estate industry for most of my life. My work has been pragmatic though –construction, property management, labor. I only recently gained an interest in how the broader real estate market moves, and further how data can be leveraged to gain insights about the market.</p>
+
+<h1 id="project">Project</h1>
+
+<p>As a final project for CS 229: Machine Learning, Matt Wolff, Laywood Fayne and I compiled economic data and used it to predict the Case Shiller housing index in 20 major US cities. Find the full source code for the project <a href="https://github.com/AriWebb/case-shiller-prediction">here</a>.</p>
+
+<h1 id="method--results">Method + Results</h1>
+
+<p>I implemented the Vector Autoregression algorithem on our data. VAR is a statistical model that captures the relationship between multiple variables, and uses these values to model future trends. More about the VAR model can be found in our <a href="https://github.com/AriWebb/case-shiller-prediction/blob/main/CS229__Project_Final_Report.pdf">final write-up</a>.</p>
+
+<p>We ended with some nice graphs predicting future values of many features. See below for our predictions vs actual values in San Francisco:</p>
+
+<p><img src="http://localhost:4000/assets/images/case_shiller/sf.png" alt="" /></p>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2022-07-18">July 18, 2022</time></p>
+
+
+      </footer>
+
+      
+
+      
+  <nav class="pagination">
+    
+      <a href="/projects/chat_client/" class="pagination--pager" title="Chat Client
+">Previous</a>
+    
+    
+      <a href="/projects/butterfly_distance/" class="pagination--pager" title="Butterfly Distance
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+      
+        
+          <li><a href="https://www.instagram.com/ari.webb/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+        
+      
+        
+          <li><a href="https://github.com/AriWebb" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+        
+          <li><a href="https://www.linkedin.com/in/ari-webb/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin-in" aria-hidden="true"></i> Linkedin</a></li>
+        
+      
+    
+
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2023 Ari Webb. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+
+
+
+  </body>
+</html>
