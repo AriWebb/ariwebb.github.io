@@ -3,16 +3,17 @@ permalink: /books/
 title: "Reading Corner"
 ---
 ## Some of my favorite books: 
-
-*Algorithms to Live By* by Brian Christian, Tom Griffiths \
+*Zero to One* by Blake Masters and Peter Thiel\
 \
-*Don't Trust Your Gut* by Seth Stephens-Davidowitz\
+*Hackers & Painters* by Paul Graham\
 \
 *Brave New World* by Aldous Huxley\
 \
-*The Lady Tasting Tea* by David Salsburg\
+*Crime and Punishment* by Fyodor Dostoyevsky\
 \
-*Pioneering Portfolio Management* by David F. Swensen\
+*Sickness Unto Death* by Søren Kierkegaard\
+\
+*The Lady Tasting Tea* by David Salsburg\
 \
 *Factfulness* by Hans Rosling\
 \
@@ -24,10 +25,8 @@ title: "Reading Corner"
 \
 *I See Satan Fall Like Lightning* by René Girard\
 \
-*Indian Buddhist Philosophy* by Amber Carpenter
-
-And... of course... 
-
-*Zero to One* by Blake Masters and Peter Thiel\
+*Indian Buddhist Philosophy* by Amber Carpenter\
 \
-*Hackers & Painters* by Paul Graham
+*Algorithms to Live By* by Brian Christian, Tom Griffiths\
+\
+*Don't Trust Your Gut* by Seth Stephens-Davidowitz\
