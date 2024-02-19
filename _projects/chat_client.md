@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/chat_client/signal.png
 sidebar:
   - title: "Role"
-    image: /assets/images/case_shiller/country.png
+    image: /assets/images/chat_client/signal.png
     text: "Completed Assignment"
   - title: "Languages"
     text: "Javascript, SubtleCrypto Library"    
