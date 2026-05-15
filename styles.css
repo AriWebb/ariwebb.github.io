@@ -5,15 +5,15 @@
 }
 
 :root {
-  color-scheme: light;
-  --cream: #fff6de;
-  --teal: #8bdfdd;
-  --coral: #f48f68;
-  --gold: #ffe394;
-  --bg: var(--cream);
-  --text: #3a342c;
-  --link: #e07858;
-  --link-hover: #4aada8;
+  color-scheme: dark;
+  --charcoal: #222831;
+  --slate: #393e46;
+  --teal: #00adb5;
+  --off-white: #eeeeee;
+  --bg: var(--charcoal);
+  --text: var(--off-white);
+  --link: var(--teal);
+  --link-hover: var(--off-white);
 }
 
 html {
@@ -34,7 +34,7 @@ body {
 main {
   max-width: 40rem;
   margin: 0 auto;
-  padding: 7rem 1.75rem 6rem;
+  padding: 5.5rem 1.75rem 6rem;
 }
 
 h1 {
@@ -80,8 +80,8 @@ a:hover {
 }
 
 ::selection {
-  background: var(--gold);
-  color: var(--text);
+  background: var(--teal);
+  color: var(--charcoal);
 }
 
 .highlights-heading {
