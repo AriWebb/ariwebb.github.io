@@ -1,0 +1,91 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+:root {
+  color-scheme: light;
+  --cream: #fff6de;
+  --teal: #8bdfdd;
+  --coral: #f48f68;
+  --gold: #ffe394;
+  --bg: var(--cream);
+  --text: #3a342c;
+  --link: #e07858;
+  --link-hover: #4aada8;
+}
+
+html {
+  font-size: 100%;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--bg);
+  color: var(--text);
+  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-size: 1rem;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+main {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 7rem 1.75rem 6rem;
+}
+
+h1 {
+  margin: 0 0 1.75rem;
+  font-size: 1.625rem;
+  font-weight: 600;
+  font-family: inherit;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+}
+
+p {
+  margin: 0 0 1.25em;
+}
+
+p:last-child {
+  margin-bottom: 0;
+}
+
+ul {
+  margin: 0 0 1.25em;
+  padding-left: 1.25rem;
+}
+
+li {
+  margin-bottom: 0.35em;
+}
+
+li:last-child {
+  margin-bottom: 0;
+}
+
+a {
+  color: var(--link);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+  transition: color 0.15s ease;
+}
+
+a:hover {
+  color: var(--link-hover);
+}
+
+::selection {
+  background: var(--gold);
+  color: var(--text);
+}
+
+.highlights-heading {
+  margin: 0 0 0.5em;
+  font-size: inherit;
+  font-weight: inherit;
+}
